@@ -1,4 +1,4 @@
-flickr2fb
-=========
+Flickr to Facebook Photo Importer
+=================================
 
-flickr2fb
+The simplest way to import all your photos from flickr to facebook. 
